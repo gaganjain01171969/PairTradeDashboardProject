@@ -31,4 +31,4 @@ jobs:
       with:
         app-name: 'PairTradeDashboardProject'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_49ba8722f1f448c7ac8639bc28a2a5bf }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_860d675984d74d91bd30cd5c0486facd }}
