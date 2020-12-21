@@ -1,0 +1,115 @@
+{
+  "stockData": [
+    {
+      "StockRecord": [
+        {
+          "symbol": "GS",
+          "closeDates": [
+            "4/5/2017",
+            "8/7/2017",
+			"11/7/2017",
+			"2/5/2018",
+            "4/4/2018",
+            "12/13/2017"
+          ],
+          "name": "Goldman Sachs"
+        },
+        {
+          "symbol": "BA",
+          "closeDates": [
+            "4/5/2017",
+            "2/5/2018"
+          ],
+          "name": "Boeing"
+
+        },
+        {
+          "symbol": "UNH",
+          "closeDates": [
+            "4/5/2017",
+            "2/5/2018",
+            "4/4/2018"
+          ],
+          "name": "United Healthcare"
+        },
+        {
+          "symbol": "MMM",
+          "closeDates": [
+            "8/7/2017",
+            "2/5/2018",
+            "4/4/2018"
+          ],
+          "name": "3M"
+        },
+        {
+          "symbol": "HD",
+          "closeDates": [
+            "4/5/2017",
+            "2/5/2018",
+            "4/4/2018"
+          ],
+          "name": "Home Depot"
+        },
+        {
+          "symbol": "MCD",
+          "closeDates": [
+            "4/5/2017",
+            "8/7/2017",
+            "4/4/2018"
+          ],
+          "name": "McDonalds"
+        },
+        {
+          "symbol": "IBM",
+          "closeDates": [
+            "4/5/2017",
+            "11/7/2017"
+          ],
+          "name": "IBM"
+        },
+        {
+          "symbol": "CAT",
+          "closeDates": [
+            "4/5/2017",
+            "4/4/2018"
+          ],
+          "name": "Caterpillar"
+        },
+        {
+          "symbol": "ZG",
+          "closeDates": [
+            "8/7/2017",
+            "4/4/2018",
+            "12/13/2017"
+          ],
+          "name": "Zillow"
+        },
+        {
+          "symbol": "TRV",
+          "closeDates": [
+            "8/7/2017",
+            "4/4/2018"
+          ],
+          "name": "Travellers"
+        },
+        {
+          "symbol": "TSLA",
+          "closeDates": [
+            "8/7/2017",
+            "4/4/2018",
+            "12/13/2017"
+          ],
+          "name": "Tesla"
+        },
+        {
+          "symbol": "AAPL",
+          "closeDates": [
+            "8/7/2017",
+            "4/4/2018"
+          ],
+          "name": "Apple, Inc"
+        }
+      ]
+    }
+  ]
+}
